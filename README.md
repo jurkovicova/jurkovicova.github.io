@@ -1,3 +1,3 @@
-# jurkovicova.github.io
+# Michaela Jurkovicova
 Personal Website
 ❤️
