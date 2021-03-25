@@ -1,0 +1,74 @@
+# Site settings
+baseURL = "https://michaela.is"
+languageCode = "en-US"
+title = "Michaela Jurkovicova"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+# googleAnalytics = ""
+
+# Copyright
+copyright = "&copy; 2021 Michaela Jurkovicova"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Michaela Jurkovicova"
+  description = "Welcome to Michaela Jurkovicova's website!"
+  shareImage = "images/social.jpg"
+  twitterHandle = "jurkovicova_"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Contact"
+
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "mailto:michaela.zea@slmail.me"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Network"
+
+      [[params.links.list2.link]]
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/jurkovicova/"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Code"
+
+      [[params.links.list3.link]]
+        text = "GitHub"
+        url = "https://github.com/jurkovicova"
+
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
