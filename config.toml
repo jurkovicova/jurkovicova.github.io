@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://michaela.is"
 languageCode = "en-US"
-title = "Michaela Jurkovicova"
+title = "Michaela Jurkovičová"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -9,13 +9,13 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 # googleAnalytics = ""
 
 # Copyright
-copyright = "&copy; 2021 Michaela Jurkovicova"
+copyright = "&copy; 2021 Michaela Jurkovičová"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Michaela Jurkovicova"
-  description = "Welcome to Michaela Jurkovicova's website!"
+  author = "Michaela Jurkovičová"
+  description = "Welcome to Michaela Jurkovičová's website!"
   shareImage = "images/social.jpg"
   twitterHandle = "jurkovicova_"
 
