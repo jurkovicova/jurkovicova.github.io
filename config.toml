@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://michaela.is"
+baseURL = "https://jurkovicova.github.io"
 languageCode = "en-US"
 title = "Michaela Jurkovicova"
 theme = "hugo-split-theme"
