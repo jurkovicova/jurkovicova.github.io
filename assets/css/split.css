@@ -221,7 +221,7 @@ body.page-template-page-fullsingle-split p {
 .split-bio a {
   color: black;
   transition-duration: 0.5s;
-  border-bottom: 1px dotted #848d96;
+  border-bottom: 1px dotted black;
 }
 .split-bio a:hover {
   color: #CA486d;
