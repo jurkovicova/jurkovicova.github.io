@@ -4,6 +4,7 @@
 
 // @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
 // @import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
 @import url('http://fonts.cdnfonts.com/css/six-thousand');
 
 //-------------------------------------------------------------------------------
@@ -45,7 +46,7 @@ html {
 
 body.page-template-page-fullsingle-split {
   background-color: $color-background;
-  font-family: 'Six Thousand', sans-serif;
+  font-family: 'Square Peg';
   font-weight: 400;
   font-size: 21px;
   line-height: 33px;
@@ -168,7 +169,7 @@ body.page-template-page-fullsingle-split {
 
 .split-bio {
   padding: 40px 0 20px 0;
-  font-family: 'Six Thousand', sans-serif;
+  font-family: 'Square Peg';
 
   @media (max-width: $bp-smallish ) {
     padding: 30px 0 10px 0;
