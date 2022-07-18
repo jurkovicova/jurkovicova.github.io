@@ -1,5 +1,5 @@
 +++
-title = "Hello"
+title = ""
 tagline = "Michaela Jurkovičová"
 +++
 
