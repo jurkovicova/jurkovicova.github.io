@@ -120,11 +120,11 @@ body.page-template-page-fullsingle-split {
   font-size: 35px;
   line-height: 33px;
   letter-spacing: -0.2px;
-  color: #848d96;
+  color: black;
   animation: fadein 2s;
 }
 body.page-template-page-fullsingle-split p {
-  color: #848d96;
+  color: black;
 }
 
 .fs-split {
@@ -196,7 +196,7 @@ body.page-template-page-fullsingle-split p {
   color: #47bec7;
 }
 .split-intro .tagline {
-  color: #CCCCCC;
+  color:black;
 }
 
 .split-bio {
@@ -214,12 +214,12 @@ body.page-template-page-fullsingle-split p {
   }
 }
 .split-bio p {
-  color: #848d96;
+  color:black;
   margin-bottom: 20px;
   line-height: inherit;
 }
 .split-bio a {
-  color: #848d96;
+  color: black;
   transition-duration: 0.5s;
   border-bottom: 1px dotted #848d96;
 }
