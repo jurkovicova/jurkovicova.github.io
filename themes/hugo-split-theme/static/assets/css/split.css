@@ -113,7 +113,7 @@ html {
 
 body.page-template-page-fullsingle-split {
   background-color: #CDFEF8;
-  font-family: "Montserrat", sans-serif;
+  font-family:'Square Peg';
   font-weight: 400;
   font-size: 21px;
   line-height: 33px;
@@ -199,7 +199,7 @@ body.page-template-page-fullsingle-split p {
 
 .split-bio {
   padding: 40px 0 20px 0;
-  font-family: "Lora", serif;
+  font-family: 'Square Peg';
 }
 @media (max-width: 1200px) {
   .split-bio {
