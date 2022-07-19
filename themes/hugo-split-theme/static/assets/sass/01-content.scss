@@ -1,9 +1,8 @@
 //-------------------------------------------------------------------------------
 // Google Font Import
 //-------------------------------------------------------------------------------
-
-// @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
-// @import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
+@import url('https://fonts.googleapis.com/css?family=Lora');
 @import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
 
@@ -46,7 +45,7 @@ html {
 
 body.page-template-page-fullsingle-split {
   background-color: $color-background;
-  font-family: 'Comforter';
+  font-family:  "Montserrat", sans-serif;
   font-weight: 300;
   font-size: 35px;
   line-height: 33px;
@@ -171,7 +170,7 @@ body.page-template-page-fullsingle-split {
 
 .split-bio {
   padding: 40px 0 20px 0;
-  font-family: 'Comforter';
+  font-family: "Lora", serif;
 
   @media (max-width: $bp-smallish ) {
     padding: 30px 0 10px 0;

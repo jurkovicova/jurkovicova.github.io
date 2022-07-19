@@ -115,7 +115,7 @@ html {
 
 body.page-template-page-fullsingle-split {
   background-color: #FFE2E2;
-  font-family:'Comforter';
+  font-family:"Montserrat", sans-serif;;
   font-weight: 200;
   font-size: 55px;
   line-height: 33px;
@@ -201,7 +201,7 @@ body.page-template-page-fullsingle-split p {
 
 .split-bio {
   padding: 40px 0 20px 0;
-  font-family: 'Comforter';
+  font-family: "Lora", serif;;
 }
 @media (max-width: 1200px) {
   .split-bio {
