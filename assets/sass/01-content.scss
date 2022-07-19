@@ -15,7 +15,7 @@ $color-background : #FFFFFF;
 $color-text       : black;
 $color-link       : black;
 $color-link-hover : #CA486d;
-$color-maverick   : #47bec7;
+$color-maverick   : #838383;
 $color-tagline    : black;
 
 // Breakpoints
@@ -46,7 +46,7 @@ html {
 body.page-template-page-fullsingle-split {
   background-color: $color-background;
   font-family:  "Montserrat", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 30px;
   line-height: 33px;
   letter-spacing: -0.2px;
@@ -149,9 +149,9 @@ body.page-template-page-fullsingle-split {
   letter-spacing: -2px;
 
   h1 {
-    font-weight: 300;
+    font-weight: 400;
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 16px;
     margin-bottom: 40px;
     letter-spacing: 0.4px;
@@ -160,7 +160,7 @@ body.page-template-page-fullsingle-split {
 
   .tagline {
     color: $color-tagline;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 30px;
   }
 
