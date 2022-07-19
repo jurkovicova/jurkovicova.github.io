@@ -201,6 +201,8 @@ body.page-template-page-fullsingle-split p {
 }
 .split-intro .tagline {
   color:black;
+  font-weight: 700;
+  font-size: 30px;
 }
 
 .split-bio {
