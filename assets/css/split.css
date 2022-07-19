@@ -142,7 +142,7 @@ body.page-template-page-fullsingle-split p {
   width: 50%;
   height: 100vh;
   border: #FFFFFF;
-  border-width: 2rem;
+  border-width: 10rem;
   background-size: cover;
 }
 @media (max-width: 800px) {
