@@ -84,12 +84,14 @@ body.page-template-page-fullsingle-split {
   .split-image {
     width: 50%;
     height: 100vh;
+    padding: 10%;
     // background-image: $image-background;
     // background-position:center center;
     background-size:cover;
 
     @media (max-width: $bp-tablet ) {
       height: 80vh;
+      padding: 10%;
       width: 50%;
     }
 
