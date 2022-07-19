@@ -141,13 +141,13 @@ body.page-template-page-fullsingle-split p {
 .fs-split .split-image {
   width: 50%;
   height: 100vh;
-  padding: 10%;
+  
   background-size: contain;
 }
 @media (max-width: 800px) {
   .fs-split .split-image {
     height: 60vh;
-    padding: 20%;
+
     width: 100%;
   }
 }
