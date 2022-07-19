@@ -116,7 +116,7 @@ html {
 body.page-template-page-fullsingle-split {
   background-color: #FFFFFF;
   font-family:"Montserrat", sans-serif;;
-  font-weight: 200;
+  font-weight: 300;
   font-size: 30px;
   line-height: 33px;
   letter-spacing: -0.2px;
@@ -251,7 +251,7 @@ body.page-template-page-fullsingle-split p {
 .split-bio h5, .split-bio .h5,
 .split-bio h6, .split-bio .h6 {
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   color: inherit;
 }
 .split-bio h1 small, .split-bio .h1 small,
