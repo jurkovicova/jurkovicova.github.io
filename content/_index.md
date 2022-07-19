@@ -1,6 +1,6 @@
 +++
-title = ""
-tagline = "Michaela Jurkovičová"
+title = "About me"
+tagline = "Hi, my name is Michaela,"
 +++
 
-Hi, my name is Michaela and I'm currently a biomedical engineering student. I'm interested in biotech . If you want to learn more, I'd love to get in touch!
+I'm currently a biomedical engineering student. I'm interested in biotech . If you want to learn more, I'd love to get in touch!
