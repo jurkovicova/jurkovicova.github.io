@@ -148,6 +148,8 @@ body.page-template-page-fullsingle-split p {
 @media (max-width: 800px) {
   .fs-split .split-image {
     height: 80vh;
+    border: #FFFFFF;
+    border-width: 10rem;
     width: 100%;
   }
 }
