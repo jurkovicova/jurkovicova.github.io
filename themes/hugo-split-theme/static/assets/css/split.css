@@ -201,9 +201,10 @@ body.page-template-page-fullsingle-split p {
 }
 .split-intro .tagline {
   color:black;
-  font-weight: 700;
+  font-weight: 900;
   text-transform: uppercase;
   font-size: 35px;
+  letter-spacing: 0.8px;
 }
 
 .split-bio {
