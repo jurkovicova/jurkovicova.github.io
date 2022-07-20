@@ -9,6 +9,7 @@ Description: Split is a centrally-divided layout for a professional online prese
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
 @import url("https://fonts.googleapis.com/css?family=Lora");
 @import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@700&display=swap');
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -200,10 +201,12 @@ body.page-template-page-fullsingle-split p {
   color: #838383;
 }
 .split-intro .tagline {
+  font-family: 'Exo', sans-serif;
   color:black;
-  font-weight: 700;
+  font-weight: 900;
   text-transform: uppercase;
   font-size: 35px;
+  letter-spacing: 0.9px;
 }
 
 .split-bio {
