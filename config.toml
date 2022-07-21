@@ -27,9 +27,15 @@ copyright = "&copy; 2021 Michaela Jurkovičová"
 
     # Image
     [params.visual.image]
-      enable = true
-      file = "images/background.jpg"
-      position = "center center"
+      [params.visual.image.im1]
+        enable = true
+        file = "images/background.jpg"
+        position = "center center"
+
+      [params.visual.image.im2]
+        enable = true
+        file = "images/logo.png"
+        position = "center center"
 
     # Video
     [params.visual.video]
