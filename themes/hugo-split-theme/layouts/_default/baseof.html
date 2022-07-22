@@ -29,6 +29,12 @@
         <!-- Intro -->
         {{ partial "intro" . }}
 
+        {{ if .Site.Params.visual.image.enable }}
+
+        <div class="split-image">
+  
+        </div>
+
         <!-- Main -->
         {{ block "main" .  }}
           <!-- Bio -->
