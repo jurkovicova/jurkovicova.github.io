@@ -1,76 +1,83 @@
 # Site settings
 baseURL = "https://michaela.is"
 languageCode = "en-US"
-title = "Michaela Jurkovičová"
-theme = "hugo-split-theme"
+title = "Michaela Jurkovicova"
+paginate = 3
+theme = "hugo-paper-main"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Enter your tracking code to enable Google Analytics
 # googleAnalytics = ""
 
 # Copyright
-copyright = "&copy; 2021 Michaela Jurkovičová"
+copyright = "&copy; 2024 Michaela Jurkovičová"
 
 [params]
 
+  color = 'light'
+
   # Metadata for search engines and social sharing
-  author = "Michaela Jurkovičová"
+  author = "Michaela Jurkovicova"
   description = "Welcome to Michaela Jurkovičová's website!"
   shareImage = "images/social.jpg"
   twitterHandle = "jurkovicova_"
 
-  # Favicon
-  favicon = "favicon.ico"
 
-  # Section - Visual
-  [params.visual]
+  linkedin = 'jurkovicova'
+  github = 'jurkovicova'
+  avatar = 'd'
+  name = 'Welcome'
+  bio = 'Discover fresh context'
 
-    # Image
-    [params.visual.image]
-      enable = true
-      file = "images/background.jpg"
-      position = "center center"
+  # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+#  [markup.highlight]
+#    lineNos = true
 
-    
+[menu]
 
-    # Video
-    [params.visual.video]
-      enable = false
-      mute = true
-      file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
 
-  # Links
-  #
-  # Links List #1
-  [[params.links]]
-    [params.links.list1]
-      heading = "Contact"
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
 
-      [[params.links.list1.link]]
-        text = "Email"
-        url = "mailto:michaela.zea@slmail.me"
+[privacy]
 
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Network"
+  [privacy.vimeo]
+    disabled = false
+    simple = true
 
-      [[params.links.list2.link]]
-        text = "LinkedIn"
-        url = "https://www.linkedin.com/in/jurkovicova/"
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
 
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Code"
+  [privacy.instagram]
+    disabled = false
+    simple = true
 
-      [[params.links.list3.link]]
-        text = "GitHub"
-        url = "https://github.com/jurkovicova"
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
 
+[services]
 
-  # The original template is released under the Creative Commons Attribution 3.0 License.
-  # Please keep the original attribution link when using for your own project.
-  # If you'd like to use the template without the attribution, you can check out
-  # the license option via the template author's website: https://onepagelove.com/split
+  [services.instagram]
+    disableInlineCSS = false
+
+  [services.twitter]
+    disableInlineCSS = false
