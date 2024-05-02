@@ -1,6 +1,21 @@
-+++ title = "My Software Engineering Portfolio"
-date = "2019-02-28"
++++
+author = "michaela.is"
+title = "Full-Stack Small Business Order System"
+date = "2019-03-11"
+tags = [
+    "Software Engineering",
+    "JavaSript",
+    "Ract",
+    "MySQL"
+]
+categories = [
+    "themes",
+    "syntax",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
 +++
 
-### [Full-Stack Portfolio Project #1: Small Business Order System](https://lookerstudio.google.com/embed/reporting/a83f4823-45f8-4c88-8fca-9aebd7bd0876/page/YObyD)
-Click above to view my order system web app. Click here to see source code
+
+You can vies the full source code [here](https://lookerstudio.google.com/embed/reporting/6d1419e7-55b1-476a-9696-5972fa9af076/page/LLqyD)
+
