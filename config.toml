@@ -4,7 +4,7 @@ languageCode = "en-US"
 title = "Michaela Jurkovicova"
 paginate = 3
 theme = "hugo-paper-main"
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
 
 # Enter your tracking code to enable Google Analytics
 # googleAnalytics = ""

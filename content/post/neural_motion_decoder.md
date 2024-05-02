@@ -16,3 +16,4 @@ aliases = ["migrate-from-jekyl"]
 +++
 
 Simple neural motion decoder utilising techniques like KNN and regression
+![PDF Embed](neurons.jpg)
