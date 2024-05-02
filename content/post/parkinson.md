@@ -1,19 +1,15 @@
 +++ 
 author = "michaela.is"
 title = "Interactive Dashboard #1: Parkinson's Disease Report"
-date = "2019-03-11"
+date = "2024-05-02"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "Data Analystics",
     "Dashboard",
     "Healtcare",
 ]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
+
+weight = 1
 +++
 
 ## [Parkinson's Disease Deaths Report - Europe 2020](https://lookerstudio.google.com/embed/reporting/6d1419e7-55b1-476a-9696-5972fa9af076/page/LLqyD)

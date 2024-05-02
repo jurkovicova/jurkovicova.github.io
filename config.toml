@@ -2,7 +2,7 @@
 baseURL = "https://michaela.is"
 languageCode = "en-US"
 title = "Michaela Jurkovicova"
-paginate = 3
+paginate = 6
 theme = "hugo-paper-main"
 
 
@@ -26,7 +26,7 @@ copyright = "&copy; 2024 Michaela Jurkovičová"
   linkedin = 'jurkovicova'
   github = 'jurkovicova'
   avatar = 'd'
-  name = 'Welcome'
+  name = 'Welcome to my page'
   bio = 'Discover fresh content'
 
   # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)

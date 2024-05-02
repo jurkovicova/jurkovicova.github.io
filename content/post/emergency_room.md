@@ -1,19 +1,14 @@
 +++ 
 author = "michaela.is"
 title = "Interactive Dashboard #2: Patient Emergency Report"
-date = "2019-03-11"
+date = "2024-05-02"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "Data Analystics",
     "Dashboard",
     "Healtcare",
 ]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
+weight = 0
 +++
 
 ### <a href="https://lookerstudio.google.com/embed/reporting/a83f4823-45f8-4c88-8fca-9aebd7bd0876/page/YObyD" target="_blank">Patient Emergency Report</a>
