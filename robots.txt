@@ -1,0 +1,23 @@
+User-agent: *
+
+Disallow: /categories/
+
+Disallow: /tags/dashboard/
+
+Disallow: /categories/dashboard/
+
+Disallow: /posts/markdown-cheat-sheet/
+
+Disallow: /categories/dataanalytics/
+
+Disallow: /tags/datavisualisation/
+
+Disallow: /tags/hello/
+
+Disallow: /posts/
+
+Disallow: /tags/
+
+Disallow: /categories/software/
+
+Disallow: /categories/uncategories/
