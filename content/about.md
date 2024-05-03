@@ -2,11 +2,12 @@
 title: 'About me'
 weight: 2
 ---
-## My background
-Hi! My name is Michaela and I am a recent Bioengineering graduate from Imperial College London. 
-I am interested in Software engineering, data analysis and healthcare. 
+
+### Hello there! 
+
+I'm Michaela, a recent **Bioengineering** alumnus from **Imperial College London**. My passions lie in the realms of *software engineering, data analysis, healthcare* and *biotechnology*.
 
 
-In my free time I love to cook and bake - I even internshiped in one of my all time favourite bakeries in London (C&D). 
+When I'm not buried in data or tinkering with software, you'll most likely find me in the kitchen! Cooking and baking are my go-to hobbies— I even had the absolute honour to intern  at one of my all time favorite bakeries in London, C&D. 
 
-I also like to take a break from my screen and be creative - I am currently learning to paint, I enjoy reading
+And when I'm not whipping up something delicious, I'm exploring my creative side, dabbling in painting and losing myself in a good book.
