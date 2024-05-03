@@ -5,7 +5,7 @@ date = "2019-03-11"
 tags = [
     "Data Science",
     "Machine Learning",
-    "Healthcare",
+    "Biotechnology",
 ]
 categories = [
     "themes",
@@ -15,5 +15,9 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-Simple neural motion decoder utilising techniques like KNN and regression
-![PDF Embed](../../neurons.jpg)
+NOTE: I am working on beginner frienfly article which would explain basic ML techniques used in this Neural Motion Decoder I have worked on. 
+
+![report](../../report.jpg)
+![report](../../report2.jpg)
+![report](../../report3.jpg)
+![report](../../report4.jpg)
