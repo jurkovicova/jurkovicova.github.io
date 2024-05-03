@@ -1,21 +1,17 @@
 +++ 
 author = "michaela.is"
 title = "Neural Motion Decoder"
-date = "2019-03-11"
+date = "2023-03-11"
 tags = [
     "Data Science",
     "Machine Learning",
     "Biotechnology",
+    "MATLAB",
 ]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
+description = "Building a neural motion decoder for continious position estimation"
 +++
 
-NOTE: I am working on beginner frienfly article which would explain basic ML techniques used in this Neural Motion Decoder I have worked on. 
+NOTE: I am working on beginner friendly article which will explain basic ML techniques used in this Neural Motion Decoder I have worked on. 
 
 ![report](../../report.jpg)
 ![report](../../report2.jpg)
