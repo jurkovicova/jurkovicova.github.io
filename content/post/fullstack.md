@@ -12,9 +12,9 @@ description = "Implementation of order handling system utilising MySQL database"
 weight = 1
 +++
 
-## WORK IN PROGRESS
+
 Tech Stack: MySQL, React, JavaSript and more 
 
 
-You can vies the full source code [here]()
+You can view the full source code [here](https://github.com/jurkovicova/cookielicious)
 
