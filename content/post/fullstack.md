@@ -9,6 +9,7 @@ tags = [
     "MySQL"
 ]
 description = "Implementation of order handling system utilising MySQL database"
+weight = 1
 +++
 
 ## WORK IN PROGRESS

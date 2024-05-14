@@ -2,7 +2,7 @@
 author = "michaela.is"
 title = "Interactive Dashboard #2: Patient Emergency Report"
 date = "2024-05-02"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description = "Sample dashboard showcasing patient emergency room data"
 tags = [
     "Data Analystics",
     "Dashboard",
